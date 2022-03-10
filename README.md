@@ -1,5 +1,5 @@
 # API_transtator
-it's a Flask API that can fitch data (Translation) of every word or sentence (in many different language to many different language) 
+it's a Flask API that can fetch data (Translation) of every word or sentence (in many different language to many different language) 
 from a website and represent it clearly and nicely in a JSON format
 
 
